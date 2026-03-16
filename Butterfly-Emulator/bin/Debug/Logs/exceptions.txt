@@ -1,0 +1,15 @@
+
+Exception logged 16/03/2026 13:38:47 in packet handling:
+System.IndexOutOfRangeException: Indice oltre i limiti della matrice.
+   in Butterfly.Net.GamePacketParser.handlePacketData(Byte[] data) in C:\Users\39328\Desktop\ZapEmulator_r63_2013\ZapEmulator_r63_2013\Phpretro + Zap Hotel Emulator based on Butterfly Emulator\ZAP SOURCE\Butterfly Emulator\Net\GamePacketParser.cs:riga 35
+Source:
+Butterfly Emulator
+Data:
+Message:
+Indice oltre i limiti della matrice.
+Stack trace:
+   in Butterfly.Net.GamePacketParser.handlePacketData(Byte[] data) in C:\Users\39328\Desktop\ZapEmulator_r63_2013\ZapEmulator_r63_2013\Phpretro + Zap Hotel Emulator based on Butterfly Emulator\ZAP SOURCE\Butterfly Emulator\Net\GamePacketParser.cs:riga 35
+
+
+
+
