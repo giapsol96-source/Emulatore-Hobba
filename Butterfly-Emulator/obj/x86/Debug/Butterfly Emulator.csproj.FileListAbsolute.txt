@@ -1,0 +1,232 @@
+C:\Users\Martin\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\bin\Debug\Butterfly Emulator.exe.config
+C:\Users\Martin\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\bin\Debug\MySql.Data.dll
+C:\Users\Martin\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\bin\Debug\Butterfly Emulator.exe
+C:\Users\Martin\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\bin\Debug\Butterfly Emulator.pdb
+C:\Users\Martin\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\bin\Debug\Anagenesis Client.dll
+C:\Users\Martin\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\bin\Debug\AStar.dll
+C:\Users\Martin\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\bin\Debug\ClientApi.dll
+C:\Users\Martin\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\bin\Debug\Connection Manager.dll
+C:\Users\Martin\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\bin\Debug\ConsoleWriter.dll
+C:\Users\Martin\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\bin\Debug\Database Manager.dll
+C:\Users\Martin\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\bin\Debug\enclosuretest.dll
+C:\Users\Martin\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\bin\Debug\Helpers.dll
+C:\Users\Martin\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\bin\Debug\SharedPacketLib.dll
+C:\Users\Martin\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\bin\Debug\WiredSolver.dll
+C:\Users\Martin\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\bin\Debug\AStar.pdb
+C:\Users\Martin\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\bin\Debug\ConsoleWriter.pdb
+C:\Users\Martin\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\bin\Debug\Database Manager.pdb
+C:\Users\Martin\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\bin\Debug\enclosuretest.pdb
+C:\Users\Martin\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\bin\Debug\WiredSolver.pdb
+C:\Users\Martin\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\bin\Debug\Connection Manager.pdb
+C:\Users\Martin\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Martin\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\obj\x86\Debug\testForm.Form1.resources
+C:\Users\Martin\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Martin\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Martin\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\obj\x86\Debug\Butterfly Emulator.exe
+C:\Users\Martin\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\obj\x86\Debug\Butterfly Emulator.pdb
+C:\Users\admin\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\bin\Debug\Butterfly Emulator.exe.config
+C:\Users\admin\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\obj\x86\Debug\Butterfly Emulator.exe
+C:\Users\admin\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\obj\x86\Debug\Butterfly Emulator.pdb
+C:\Users\admin\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\bin\Debug\MySql.Data.dll
+C:\Users\admin\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\bin\Debug\Butterfly Emulator.exe
+C:\Users\admin\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\bin\Debug\Butterfly Emulator.pdb
+C:\Users\admin\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\bin\Debug\Anagenesis Client.dll
+C:\Users\admin\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\bin\Debug\AStar.dll
+C:\Users\admin\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\bin\Debug\ClientApi.dll
+C:\Users\admin\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\bin\Debug\Connection Manager.dll
+C:\Users\admin\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\bin\Debug\ConsoleWriter.dll
+C:\Users\admin\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\bin\Debug\Database Manager.dll
+C:\Users\admin\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\bin\Debug\enclosuretest.dll
+C:\Users\admin\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\bin\Debug\Helpers.dll
+C:\Users\admin\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\bin\Debug\SharedPacketLib.dll
+C:\Users\admin\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\bin\Debug\WiredSolver.dll
+C:\Users\admin\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\bin\Debug\AStar.pdb
+C:\Users\admin\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\bin\Debug\ConsoleWriter.pdb
+C:\Users\admin\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\bin\Debug\Database Manager.pdb
+C:\Users\admin\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\bin\Debug\enclosuretest.pdb
+C:\Users\admin\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\bin\Debug\WiredSolver.pdb
+C:\Users\admin\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\bin\Debug\Connection Manager.pdb
+C:\Users\admin\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\obj\x86\Debug\testForm.Form1.resources
+C:\Users\admin\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\admin\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jonty\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\bin\Debug\Butterfly Emulator.exe.config
+C:\Users\Jonty\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\obj\x86\Debug\Butterfly Emulator.exe
+C:\Users\Jonty\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\obj\x86\Debug\Butterfly Emulator.pdb
+C:\Users\Jonty\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\bin\Debug\MySql.Data.dll
+C:\Users\Jonty\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\bin\Debug\Butterfly Emulator.exe
+C:\Users\Jonty\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\bin\Debug\Butterfly Emulator.pdb
+C:\Users\Jonty\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\bin\Debug\Anagenesis Client.dll
+C:\Users\Jonty\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\bin\Debug\AStar.dll
+C:\Users\Jonty\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\bin\Debug\ClientApi.dll
+C:\Users\Jonty\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\bin\Debug\Connection Manager.dll
+C:\Users\Jonty\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\bin\Debug\ConsoleWriter.dll
+C:\Users\Jonty\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\bin\Debug\Database Manager.dll
+C:\Users\Jonty\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\bin\Debug\enclosuretest.dll
+C:\Users\Jonty\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\bin\Debug\Helpers.dll
+C:\Users\Jonty\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\bin\Debug\SharedPacketLib.dll
+C:\Users\Jonty\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\bin\Debug\WiredSolver.dll
+C:\Users\Jonty\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\bin\Debug\AStar.pdb
+C:\Users\Jonty\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\bin\Debug\ConsoleWriter.pdb
+C:\Users\Jonty\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\bin\Debug\Database Manager.pdb
+C:\Users\Jonty\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\bin\Debug\enclosuretest.pdb
+C:\Users\Jonty\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\bin\Debug\WiredSolver.pdb
+C:\Users\Jonty\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\bin\Debug\Connection Manager.pdb
+C:\Users\Jonty\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\obj\x86\Debug\Butterfly Emulator.csprojResolveAssemblyReference.cache
+C:\Users\Jonty\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\obj\x86\Debug\testForm.Form1.resources
+C:\Users\Jonty\Desktop\r96c source\trunk\Emulator\Butterfly Emulator\obj\x86\Debug\Butterfly Emulator.csproj.GenerateResource.Cache
+C:\Users\Jonty\Desktop\Zap Shit\Zaps r96c\trunk\Emulator\Butterfly Emulator\bin\Debug\Butterfly Emulator.exe.config
+C:\Users\Jonty\Desktop\Zap Shit\Zaps r96c\trunk\Emulator\Butterfly Emulator\obj\x86\Debug\Butterfly Emulator.exe
+C:\Users\Jonty\Desktop\Zap Shit\Zaps r96c\trunk\Emulator\Butterfly Emulator\obj\x86\Debug\Butterfly Emulator.pdb
+C:\Users\Jonty\Desktop\Zap Shit\Zaps r96c\trunk\Emulator\Butterfly Emulator\bin\Debug\MySql.Data.dll
+C:\Users\Jonty\Desktop\Zap Shit\Zaps r96c\trunk\Emulator\Butterfly Emulator\bin\Debug\Butterfly Emulator.exe
+C:\Users\Jonty\Desktop\Zap Shit\Zaps r96c\trunk\Emulator\Butterfly Emulator\bin\Debug\Butterfly Emulator.pdb
+C:\Users\Jonty\Desktop\Zap Shit\Zaps r96c\trunk\Emulator\Butterfly Emulator\bin\Debug\Anagenesis Client.dll
+C:\Users\Jonty\Desktop\Zap Shit\Zaps r96c\trunk\Emulator\Butterfly Emulator\bin\Debug\AStar.dll
+C:\Users\Jonty\Desktop\Zap Shit\Zaps r96c\trunk\Emulator\Butterfly Emulator\bin\Debug\ClientApi.dll
+C:\Users\Jonty\Desktop\Zap Shit\Zaps r96c\trunk\Emulator\Butterfly Emulator\bin\Debug\Connection Manager.dll
+C:\Users\Jonty\Desktop\Zap Shit\Zaps r96c\trunk\Emulator\Butterfly Emulator\bin\Debug\ConsoleWriter.dll
+C:\Users\Jonty\Desktop\Zap Shit\Zaps r96c\trunk\Emulator\Butterfly Emulator\bin\Debug\Database Manager.dll
+C:\Users\Jonty\Desktop\Zap Shit\Zaps r96c\trunk\Emulator\Butterfly Emulator\bin\Debug\enclosuretest.dll
+C:\Users\Jonty\Desktop\Zap Shit\Zaps r96c\trunk\Emulator\Butterfly Emulator\bin\Debug\Helpers.dll
+C:\Users\Jonty\Desktop\Zap Shit\Zaps r96c\trunk\Emulator\Butterfly Emulator\bin\Debug\SharedPacketLib.dll
+C:\Users\Jonty\Desktop\Zap Shit\Zaps r96c\trunk\Emulator\Butterfly Emulator\bin\Debug\WiredSolver.dll
+C:\Users\Jonty\Desktop\Zap Shit\Zaps r96c\trunk\Emulator\Butterfly Emulator\bin\Debug\AStar.pdb
+C:\Users\Jonty\Desktop\Zap Shit\Zaps r96c\trunk\Emulator\Butterfly Emulator\bin\Debug\ConsoleWriter.pdb
+C:\Users\Jonty\Desktop\Zap Shit\Zaps r96c\trunk\Emulator\Butterfly Emulator\bin\Debug\Database Manager.pdb
+C:\Users\Jonty\Desktop\Zap Shit\Zaps r96c\trunk\Emulator\Butterfly Emulator\bin\Debug\enclosuretest.pdb
+C:\Users\Jonty\Desktop\Zap Shit\Zaps r96c\trunk\Emulator\Butterfly Emulator\bin\Debug\WiredSolver.pdb
+C:\Users\Jonty\Desktop\Zap Shit\Zaps r96c\trunk\Emulator\Butterfly Emulator\bin\Debug\Connection Manager.pdb
+C:\Users\Jonty\Desktop\Zap Shit\Zaps r96c\trunk\Emulator\Butterfly Emulator\obj\x86\Debug\Butterfly Emulator.csprojResolveAssemblyReference.cache
+C:\Users\Jonty\Desktop\Zap Shit\Zaps r96c\trunk\Emulator\Butterfly Emulator\obj\x86\Debug\testForm.Form1.resources
+C:\Users\Jonty\Desktop\Zap Shit\Zaps r96c\trunk\Emulator\Butterfly Emulator\obj\x86\Debug\Butterfly Emulator.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\ZAP SOURCE\Butterfly Emulator\bin\Debug\Butterfly Emulator.exe.config
+C:\Users\admin\Desktop\ZAP SOURCE\Butterfly Emulator\obj\x86\Debug\Butterfly Emulator.exe
+C:\Users\admin\Desktop\ZAP SOURCE\Butterfly Emulator\obj\x86\Debug\Butterfly Emulator.pdb
+C:\Users\admin\Desktop\ZAP SOURCE\Butterfly Emulator\bin\Debug\MySql.Data.dll
+C:\Users\admin\Desktop\ZAP SOURCE\Butterfly Emulator\bin\Debug\Butterfly Emulator.exe
+C:\Users\admin\Desktop\ZAP SOURCE\Butterfly Emulator\bin\Debug\Butterfly Emulator.pdb
+C:\Users\admin\Desktop\ZAP SOURCE\Butterfly Emulator\bin\Debug\Anagenesis Client.dll
+C:\Users\admin\Desktop\ZAP SOURCE\Butterfly Emulator\bin\Debug\AStar.dll
+C:\Users\admin\Desktop\ZAP SOURCE\Butterfly Emulator\bin\Debug\ClientApi.dll
+C:\Users\admin\Desktop\ZAP SOURCE\Butterfly Emulator\bin\Debug\Connection Manager.dll
+C:\Users\admin\Desktop\ZAP SOURCE\Butterfly Emulator\bin\Debug\ConsoleWriter.dll
+C:\Users\admin\Desktop\ZAP SOURCE\Butterfly Emulator\bin\Debug\Database Manager.dll
+C:\Users\admin\Desktop\ZAP SOURCE\Butterfly Emulator\bin\Debug\enclosuretest.dll
+C:\Users\admin\Desktop\ZAP SOURCE\Butterfly Emulator\bin\Debug\Helpers.dll
+C:\Users\admin\Desktop\ZAP SOURCE\Butterfly Emulator\bin\Debug\SharedPacketLib.dll
+C:\Users\admin\Desktop\ZAP SOURCE\Butterfly Emulator\bin\Debug\WiredSolver.dll
+C:\Users\admin\Desktop\ZAP SOURCE\Butterfly Emulator\bin\Debug\AStar.pdb
+C:\Users\admin\Desktop\ZAP SOURCE\Butterfly Emulator\bin\Debug\ConsoleWriter.pdb
+C:\Users\admin\Desktop\ZAP SOURCE\Butterfly Emulator\bin\Debug\Database Manager.pdb
+C:\Users\admin\Desktop\ZAP SOURCE\Butterfly Emulator\bin\Debug\enclosuretest.pdb
+C:\Users\admin\Desktop\ZAP SOURCE\Butterfly Emulator\bin\Debug\WiredSolver.pdb
+C:\Users\admin\Desktop\ZAP SOURCE\Butterfly Emulator\bin\Debug\Connection Manager.pdb
+C:\Users\admin\Desktop\ZAP SOURCE\Butterfly Emulator\obj\x86\Debug\Butterfly Emulator.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\ZAP SOURCE\Butterfly Emulator\obj\x86\Debug\testForm.Form1.resources
+C:\Users\admin\Desktop\ZAP SOURCE\Butterfly Emulator\obj\x86\Debug\Butterfly Emulator.csproj.GenerateResource.Cache
+F:\ZAP SOURCE\Butterfly Emulator\bin\Debug\Butterfly Emulator.exe.config
+F:\ZAP SOURCE\Butterfly Emulator\obj\x86\Debug\Butterfly Emulator.exe
+F:\ZAP SOURCE\Butterfly Emulator\obj\x86\Debug\Butterfly Emulator.pdb
+F:\ZAP SOURCE\Butterfly Emulator\obj\x86\Debug\Butterfly Emulator.csprojResolveAssemblyReference.cache
+F:\ZAP SOURCE\Butterfly Emulator\obj\x86\Debug\testForm.Form1.resources
+F:\ZAP SOURCE\Butterfly Emulator\obj\x86\Debug\Butterfly Emulator.csproj.GenerateResource.Cache
+F:\ZAP SOURCE\Butterfly Emulator\bin\Debug\MySql.Data.dll
+F:\ZAP SOURCE\Butterfly Emulator\bin\Debug\Butterfly Emulator.exe
+F:\ZAP SOURCE\Butterfly Emulator\bin\Debug\Butterfly Emulator.pdb
+F:\ZAP SOURCE\Butterfly Emulator\bin\Debug\Anagenesis Client.dll
+F:\ZAP SOURCE\Butterfly Emulator\bin\Debug\AStar.dll
+F:\ZAP SOURCE\Butterfly Emulator\bin\Debug\ClientApi.dll
+F:\ZAP SOURCE\Butterfly Emulator\bin\Debug\Connection Manager.dll
+F:\ZAP SOURCE\Butterfly Emulator\bin\Debug\ConsoleWriter.dll
+F:\ZAP SOURCE\Butterfly Emulator\bin\Debug\Database Manager.dll
+F:\ZAP SOURCE\Butterfly Emulator\bin\Debug\enclosuretest.dll
+F:\ZAP SOURCE\Butterfly Emulator\bin\Debug\Helpers.dll
+F:\ZAP SOURCE\Butterfly Emulator\bin\Debug\SharedPacketLib.dll
+F:\ZAP SOURCE\Butterfly Emulator\bin\Debug\WiredSolver.dll
+F:\ZAP SOURCE\Butterfly Emulator\bin\Debug\AStar.pdb
+F:\ZAP SOURCE\Butterfly Emulator\bin\Debug\ConsoleWriter.pdb
+F:\ZAP SOURCE\Butterfly Emulator\bin\Debug\Database Manager.pdb
+F:\ZAP SOURCE\Butterfly Emulator\bin\Debug\enclosuretest.pdb
+F:\ZAP SOURCE\Butterfly Emulator\bin\Debug\WiredSolver.pdb
+F:\ZAP SOURCE\Butterfly Emulator\bin\Debug\Connection Manager.pdb
+C:\Users\Tumanda\Desktop\ZAP SOURCE\Butterfly Emulator\bin\Debug\Butterfly Emulator.exe.config
+C:\Users\Tumanda\Desktop\ZAP SOURCE\Butterfly Emulator\obj\x86\Debug\Butterfly Emulator.exe
+C:\Users\Tumanda\Desktop\ZAP SOURCE\Butterfly Emulator\obj\x86\Debug\Butterfly Emulator.pdb
+C:\Users\Tumanda\Desktop\ZAP SOURCE\Butterfly Emulator\bin\Debug\MySql.Data.dll
+C:\Users\Tumanda\Desktop\ZAP SOURCE\Butterfly Emulator\bin\Debug\Butterfly Emulator.exe
+C:\Users\Tumanda\Desktop\ZAP SOURCE\Butterfly Emulator\bin\Debug\Butterfly Emulator.pdb
+C:\Users\Tumanda\Desktop\ZAP SOURCE\Butterfly Emulator\bin\Debug\Anagenesis Client.dll
+C:\Users\Tumanda\Desktop\ZAP SOURCE\Butterfly Emulator\bin\Debug\AStar.dll
+C:\Users\Tumanda\Desktop\ZAP SOURCE\Butterfly Emulator\bin\Debug\ClientApi.dll
+C:\Users\Tumanda\Desktop\ZAP SOURCE\Butterfly Emulator\bin\Debug\Connection Manager.dll
+C:\Users\Tumanda\Desktop\ZAP SOURCE\Butterfly Emulator\bin\Debug\ConsoleWriter.dll
+C:\Users\Tumanda\Desktop\ZAP SOURCE\Butterfly Emulator\bin\Debug\Database Manager.dll
+C:\Users\Tumanda\Desktop\ZAP SOURCE\Butterfly Emulator\bin\Debug\enclosuretest.dll
+C:\Users\Tumanda\Desktop\ZAP SOURCE\Butterfly Emulator\bin\Debug\Helpers.dll
+C:\Users\Tumanda\Desktop\ZAP SOURCE\Butterfly Emulator\bin\Debug\SharedPacketLib.dll
+C:\Users\Tumanda\Desktop\ZAP SOURCE\Butterfly Emulator\bin\Debug\WiredSolver.dll
+C:\Users\Tumanda\Desktop\ZAP SOURCE\Butterfly Emulator\bin\Debug\AStar.pdb
+C:\Users\Tumanda\Desktop\ZAP SOURCE\Butterfly Emulator\bin\Debug\ConsoleWriter.pdb
+C:\Users\Tumanda\Desktop\ZAP SOURCE\Butterfly Emulator\bin\Debug\Database Manager.pdb
+C:\Users\Tumanda\Desktop\ZAP SOURCE\Butterfly Emulator\bin\Debug\enclosuretest.pdb
+C:\Users\Tumanda\Desktop\ZAP SOURCE\Butterfly Emulator\bin\Debug\WiredSolver.pdb
+C:\Users\Tumanda\Desktop\ZAP SOURCE\Butterfly Emulator\bin\Debug\Connection Manager.pdb
+C:\Users\Tumanda\Desktop\ZAP SOURCE\Butterfly Emulator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tumanda\Desktop\ZAP SOURCE\Butterfly Emulator\obj\x86\Debug\testForm.Form1.resources
+C:\Users\Tumanda\Desktop\ZAP SOURCE\Butterfly Emulator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tumanda\Desktop\ZAP SOURCE\Butterfly Emulator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tumanda\Desktop\Phoenix 3.11.0 Binaries\BcStorm\ZAP SOURCE\Butterfly Emulator\bin\Debug\Butterfly Emulator.exe.config
+C:\Users\Tumanda\Desktop\Phoenix 3.11.0 Binaries\BcStorm\ZAP SOURCE\Butterfly Emulator\obj\x86\Debug\Butterfly Emulator.exe
+C:\Users\Tumanda\Desktop\Phoenix 3.11.0 Binaries\BcStorm\ZAP SOURCE\Butterfly Emulator\obj\x86\Debug\Butterfly Emulator.pdb
+C:\Users\Tumanda\Desktop\Phoenix 3.11.0 Binaries\BcStorm\ZAP SOURCE\Butterfly Emulator\bin\Debug\MySql.Data.dll
+C:\Users\Tumanda\Desktop\Phoenix 3.11.0 Binaries\BcStorm\ZAP SOURCE\Butterfly Emulator\bin\Debug\Butterfly Emulator.exe
+C:\Users\Tumanda\Desktop\Phoenix 3.11.0 Binaries\BcStorm\ZAP SOURCE\Butterfly Emulator\bin\Debug\Butterfly Emulator.pdb
+C:\Users\Tumanda\Desktop\Phoenix 3.11.0 Binaries\BcStorm\ZAP SOURCE\Butterfly Emulator\bin\Debug\Anagenesis Client.dll
+C:\Users\Tumanda\Desktop\Phoenix 3.11.0 Binaries\BcStorm\ZAP SOURCE\Butterfly Emulator\bin\Debug\AStar.dll
+C:\Users\Tumanda\Desktop\Phoenix 3.11.0 Binaries\BcStorm\ZAP SOURCE\Butterfly Emulator\bin\Debug\ClientApi.dll
+C:\Users\Tumanda\Desktop\Phoenix 3.11.0 Binaries\BcStorm\ZAP SOURCE\Butterfly Emulator\bin\Debug\Connection Manager.dll
+C:\Users\Tumanda\Desktop\Phoenix 3.11.0 Binaries\BcStorm\ZAP SOURCE\Butterfly Emulator\bin\Debug\ConsoleWriter.dll
+C:\Users\Tumanda\Desktop\Phoenix 3.11.0 Binaries\BcStorm\ZAP SOURCE\Butterfly Emulator\bin\Debug\Database Manager.dll
+C:\Users\Tumanda\Desktop\Phoenix 3.11.0 Binaries\BcStorm\ZAP SOURCE\Butterfly Emulator\bin\Debug\enclosuretest.dll
+C:\Users\Tumanda\Desktop\Phoenix 3.11.0 Binaries\BcStorm\ZAP SOURCE\Butterfly Emulator\bin\Debug\Helpers.dll
+C:\Users\Tumanda\Desktop\Phoenix 3.11.0 Binaries\BcStorm\ZAP SOURCE\Butterfly Emulator\bin\Debug\SharedPacketLib.dll
+C:\Users\Tumanda\Desktop\Phoenix 3.11.0 Binaries\BcStorm\ZAP SOURCE\Butterfly Emulator\bin\Debug\WiredSolver.dll
+C:\Users\Tumanda\Desktop\Phoenix 3.11.0 Binaries\BcStorm\ZAP SOURCE\Butterfly Emulator\bin\Debug\AStar.pdb
+C:\Users\Tumanda\Desktop\Phoenix 3.11.0 Binaries\BcStorm\ZAP SOURCE\Butterfly Emulator\bin\Debug\ConsoleWriter.pdb
+C:\Users\Tumanda\Desktop\Phoenix 3.11.0 Binaries\BcStorm\ZAP SOURCE\Butterfly Emulator\bin\Debug\Database Manager.pdb
+C:\Users\Tumanda\Desktop\Phoenix 3.11.0 Binaries\BcStorm\ZAP SOURCE\Butterfly Emulator\bin\Debug\enclosuretest.pdb
+C:\Users\Tumanda\Desktop\Phoenix 3.11.0 Binaries\BcStorm\ZAP SOURCE\Butterfly Emulator\bin\Debug\WiredSolver.pdb
+C:\Users\Tumanda\Desktop\Phoenix 3.11.0 Binaries\BcStorm\ZAP SOURCE\Butterfly Emulator\bin\Debug\Connection Manager.pdb
+C:\Users\Tumanda\Desktop\Phoenix 3.11.0 Binaries\BcStorm\ZAP SOURCE\Butterfly Emulator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tumanda\Desktop\Phoenix 3.11.0 Binaries\BcStorm\ZAP SOURCE\Butterfly Emulator\obj\x86\Debug\testForm.Form1.resources
+C:\Users\Tumanda\Desktop\Phoenix 3.11.0 Binaries\BcStorm\ZAP SOURCE\Butterfly Emulator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tumanda\Desktop\Phoenix 3.11.0 Binaries\BcStorm\ZAP SOURCE\Butterfly Emulator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\39328\Desktop\ZapEmulator_r63_2013\ZapEmulator_r63_2013\Phpretro + Zap Hotel Emulator based on Butterfly Emulator\ZAP SOURCE\Butterfly Emulator\bin\Debug\Anagenesis Client.dll
+C:\Users\39328\Desktop\ZapEmulator_r63_2013\ZapEmulator_r63_2013\Phpretro + Zap Hotel Emulator based on Butterfly Emulator\ZAP SOURCE\Butterfly Emulator\bin\Debug\AStar.dll
+C:\Users\39328\Desktop\ZapEmulator_r63_2013\ZapEmulator_r63_2013\Phpretro + Zap Hotel Emulator based on Butterfly Emulator\ZAP SOURCE\Butterfly Emulator\bin\Debug\ClientApi.dll
+C:\Users\39328\Desktop\ZapEmulator_r63_2013\ZapEmulator_r63_2013\Phpretro + Zap Hotel Emulator based on Butterfly Emulator\ZAP SOURCE\Butterfly Emulator\bin\Debug\Connection Manager.dll
+C:\Users\39328\Desktop\ZapEmulator_r63_2013\ZapEmulator_r63_2013\Phpretro + Zap Hotel Emulator based on Butterfly Emulator\ZAP SOURCE\Butterfly Emulator\bin\Debug\ConsoleWriter.dll
+C:\Users\39328\Desktop\ZapEmulator_r63_2013\ZapEmulator_r63_2013\Phpretro + Zap Hotel Emulator based on Butterfly Emulator\ZAP SOURCE\Butterfly Emulator\bin\Debug\Database Manager.dll
+C:\Users\39328\Desktop\ZapEmulator_r63_2013\ZapEmulator_r63_2013\Phpretro + Zap Hotel Emulator based on Butterfly Emulator\ZAP SOURCE\Butterfly Emulator\bin\Debug\enclosuretest.dll
+C:\Users\39328\Desktop\ZapEmulator_r63_2013\ZapEmulator_r63_2013\Phpretro + Zap Hotel Emulator based on Butterfly Emulator\ZAP SOURCE\Butterfly Emulator\bin\Debug\Helpers.dll
+C:\Users\39328\Desktop\ZapEmulator_r63_2013\ZapEmulator_r63_2013\Phpretro + Zap Hotel Emulator based on Butterfly Emulator\ZAP SOURCE\Butterfly Emulator\bin\Debug\SharedPacketLib.dll
+C:\Users\39328\Desktop\ZapEmulator_r63_2013\ZapEmulator_r63_2013\Phpretro + Zap Hotel Emulator based on Butterfly Emulator\ZAP SOURCE\Butterfly Emulator\bin\Debug\WiredSolver.dll
+C:\Users\39328\Desktop\ZapEmulator_r63_2013\ZapEmulator_r63_2013\Phpretro + Zap Hotel Emulator based on Butterfly Emulator\ZAP SOURCE\Butterfly Emulator\bin\Debug\MySql.Data.dll
+C:\Users\39328\Desktop\ZapEmulator_r63_2013\ZapEmulator_r63_2013\Phpretro + Zap Hotel Emulator based on Butterfly Emulator\ZAP SOURCE\Butterfly Emulator\bin\Debug\AStar.pdb
+C:\Users\39328\Desktop\ZapEmulator_r63_2013\ZapEmulator_r63_2013\Phpretro + Zap Hotel Emulator based on Butterfly Emulator\ZAP SOURCE\Butterfly Emulator\bin\Debug\AStar.dll.config
+C:\Users\39328\Desktop\ZapEmulator_r63_2013\ZapEmulator_r63_2013\Phpretro + Zap Hotel Emulator based on Butterfly Emulator\ZAP SOURCE\Butterfly Emulator\bin\Debug\ConsoleWriter.pdb
+C:\Users\39328\Desktop\ZapEmulator_r63_2013\ZapEmulator_r63_2013\Phpretro + Zap Hotel Emulator based on Butterfly Emulator\ZAP SOURCE\Butterfly Emulator\bin\Debug\Database Manager.pdb
+C:\Users\39328\Desktop\ZapEmulator_r63_2013\ZapEmulator_r63_2013\Phpretro + Zap Hotel Emulator based on Butterfly Emulator\ZAP SOURCE\Butterfly Emulator\bin\Debug\enclosuretest.pdb
+C:\Users\39328\Desktop\ZapEmulator_r63_2013\ZapEmulator_r63_2013\Phpretro + Zap Hotel Emulator based on Butterfly Emulator\ZAP SOURCE\Butterfly Emulator\bin\Debug\WiredSolver.pdb
+C:\Users\39328\Desktop\ZapEmulator_r63_2013\ZapEmulator_r63_2013\Phpretro + Zap Hotel Emulator based on Butterfly Emulator\ZAP SOURCE\Butterfly Emulator\bin\Debug\Connection Manager.pdb
+C:\Users\39328\Desktop\ZapEmulator_r63_2013\ZapEmulator_r63_2013\Phpretro + Zap Hotel Emulator based on Butterfly Emulator\ZAP SOURCE\Butterfly Emulator\obj\x86\Debug\Butterfly Emulator.csproj.AssemblyReference.cache
+C:\Users\39328\Desktop\ZapEmulator_r63_2013\ZapEmulator_r63_2013\Phpretro + Zap Hotel Emulator based on Butterfly Emulator\ZAP SOURCE\Butterfly Emulator\obj\x86\Debug\testForm.Form1.resources
+C:\Users\39328\Desktop\ZapEmulator_r63_2013\ZapEmulator_r63_2013\Phpretro + Zap Hotel Emulator based on Butterfly Emulator\ZAP SOURCE\Butterfly Emulator\obj\x86\Debug\Butterfly Emulator.csproj.GenerateResource.cache
+C:\Users\39328\Desktop\ZapEmulator_r63_2013\ZapEmulator_r63_2013\Phpretro + Zap Hotel Emulator based on Butterfly Emulator\ZAP SOURCE\Butterfly Emulator\obj\x86\Debug\Butterfly Emulator.csproj.CoreCompileInputs.cache
+C:\Users\39328\Desktop\ZapEmulator_r63_2013\ZapEmulator_r63_2013\Phpretro + Zap Hotel Emulator based on Butterfly Emulator\ZAP SOURCE\Butterfly Emulator\obj\x86\Debug\Butterfly Emulator.exe
+C:\Users\39328\Desktop\ZapEmulator_r63_2013\ZapEmulator_r63_2013\Phpretro + Zap Hotel Emulator based on Butterfly Emulator\ZAP SOURCE\Butterfly Emulator\obj\x86\Debug\Butterfly Emulator.pdb
+C:\Users\39328\Desktop\ZapEmulator_r63_2013\ZapEmulator_r63_2013\Phpretro + Zap Hotel Emulator based on Butterfly Emulator\ZAP SOURCE\Butterfly Emulator\bin\Debug\Butterfly Emulator.exe.config
+C:\Users\39328\Desktop\ZapEmulator_r63_2013\ZapEmulator_r63_2013\Phpretro + Zap Hotel Emulator based on Butterfly Emulator\ZAP SOURCE\Butterfly Emulator\bin\Debug\Butterfly Emulator.exe
+C:\Users\39328\Desktop\ZapEmulator_r63_2013\ZapEmulator_r63_2013\Phpretro + Zap Hotel Emulator based on Butterfly Emulator\ZAP SOURCE\Butterfly Emulator\bin\Debug\Butterfly Emulator.pdb
+C:\Users\39328\Desktop\ZapEmulator_r63_2013\ZapEmulator_r63_2013\Phpretro + Zap Hotel Emulator based on Butterfly Emulator\ZAP SOURCE\Butterfly Emulator\obj\x86\Debug\Butterfl.7E4A6257.Up2Date
